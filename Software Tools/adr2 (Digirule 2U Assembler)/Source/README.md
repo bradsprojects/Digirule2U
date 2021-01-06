@@ -16,5 +16,5 @@ For Windows, use following:
 ```
 git clone https://github.com/bradsprojects/Digirule2U
 cd Digirule2U\Software Tools\adr2 (Digirule 2U Assembler)\Source
-gcc -Wall -Os -s *.c -o adr2
+gcc -Wall -Os -s *.c -o adr2.exe
 ```
