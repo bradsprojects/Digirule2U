@@ -1,7 +1,7 @@
 Compile adr2 (Digirule 2U Cross-Assembler)
 -------------------------------------------
 
-You can compile the Digirule 2U Cross-Assembler using the terminal under Mac OS or Linux, or using the command prompt under Windows.
+You can compile the Digirule 2U Cross-Assembler from the terminal under Linux or Mac OS, or from the command prompt under Windows.
 
 Note: You will need to make sure that git and gcc are installed on your system before running the following commands.
 
