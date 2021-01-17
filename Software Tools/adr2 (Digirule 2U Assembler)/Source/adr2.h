@@ -16,7 +16,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 #define TITLE		"Digirule 2U Cross-Assembler"
-#define BUILT		"18 Dec 2020"
+#define BUILT		"17 Jan 2021"
 #define BY			"KD0GLS"
 #define BANNER		TITLE " | " BUILT " | " BY
 

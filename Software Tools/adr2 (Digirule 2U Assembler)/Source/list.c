@@ -79,7 +79,8 @@ void list_emit8( uint8 data )
 	memcpy( priv.pobj, temp, 2 );
 	priv.pobj += 2 + 1;
 	
-	priv.dirty[lc] = 1;
+	if( lc < ELEMENTSOF( priv.dirty ) )
+		priv.dirty[lc] = 1;
 }
 
 void list_emit_equ( uint16 data )
