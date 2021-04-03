@@ -6,7 +6,7 @@ All files to make your own are included in this repository however you can also 
 
 There are online versions of the user manuals available here:
 
-(https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/rJ6S9s4SP "Digirule 2U User Manual")
-(https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/rJ3bYYtqw "adr2 Cross Assembler User Manual")
-(https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/rkCUtKF9v "dldr2 Digirule 2U Download Utility User Manual")
-(https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/B1gSKYK5w "Firmware Updater User Manual")
+1. (https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/rJ6S9s4SP "Digirule 2U User Manual")
+2. (https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/rJ3bYYtqw "adr2 Cross Assembler User Manual")
+3. (https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/rkCUtKF9v "dldr2 Digirule 2U Download Utility User Manual")
+4. (https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/B1gSKYK5w "Firmware Updater User Manual")
