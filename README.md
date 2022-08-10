@@ -10,4 +10,4 @@ There are online versions of the user manuals available here:
 2. ADR2 Digirule 2U Cross-Assembler User Manual (https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/rJ3bYYtqw)
 3. DLDR2 Digirule 2U Download Utility User Manual (https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/rkCUtKF9v)
 4. UDR2 Digirule 2U Firmware Updater User Manual (https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/B1gSKYK5w)
-5. Digirule 2U FAQs (https://hackmd.io/aG11j56HSWmBP3BxjqdoDQ)
+5. Digirule 2U FAQs (https://hackmd.io/@zrqJxVrZQz-EScD0kFIEYg/HkEHDYwAD)
